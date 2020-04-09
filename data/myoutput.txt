@@ -1,0 +1,20 @@
+Genre       Number of Titles
+____________________________
+Action           1499
+Adventure        992
+Comedy           3047
+Drama            3311
+
+Genre       Number of Titles (2015-2019)
+________________________________________
+Action                 168
+Adventure              119
+Comedy                 258
+Drama                  228
+
+Genre (Release Year)       Number of Titles
+___________________________________________
+Drama in 1996          128
+Action in 1998         48
+Comedy in 1997         94
+Adventure in 1999      21

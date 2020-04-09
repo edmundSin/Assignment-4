@@ -1,3 +1,10 @@
+/* Edmund Sin
+  * CISC 3130-TY9
+  * Professor Chuang
+  * 4/8/20
+  * Assignment 4
+  */ 
+
 import java.io.*;
 import java.util.*;
 

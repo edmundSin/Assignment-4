@@ -1,4 +1,4 @@
-# Assignment-4 (Movie Genres) with Hashmap and Key Value Pairs
+# Project-4 (Movie Genres) with Hashmap and Key Value Pairs
 
 My code basically operates as the following:
 1. extract movie genres, titles, and years from a .csv file and put extracted elements into arraylists respectively
